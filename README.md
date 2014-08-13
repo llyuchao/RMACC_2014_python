@@ -1,4 +1,5 @@
-rmacc_2014_python
+RMACC 2014 Python
 =================
 
 Code and examples for the Rocky Mountain Advanced Computing Consortium.
+
